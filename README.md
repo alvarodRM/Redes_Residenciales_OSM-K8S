@@ -4,7 +4,7 @@
 <br/><br/><br/>
 
 # Práctica final de RDSV
-Autores: Luis López Álvarez y Álvaro de Rojas Maraver
+Autores: Álvaro de Rojas Maraver y Luis López Álvarez
 
 <img width="1395" alt="Infraestructura" src="https://user-images.githubusercontent.com/105986456/216118337-e11710e1-2a81-46bf-8f75-eb3921a15caf.png">
 
